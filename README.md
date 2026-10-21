@@ -1,8 +1,8 @@
 # Evidence index (DCIT 208 individual portfolio)
 
 Project: Client Tracking System (CTS), Add Client feature
-GitHub username: [REPLACE]
-Team repository: [REPLACE]
+GitHub username: oscaragyeman47-afk
+Team repository: https://github.com/mrquao455/softwork-group2
 
 Privacy rule: no formal names, student IDs, rosters or peer evaluations in this repository. Use the GitHub username only.
 
